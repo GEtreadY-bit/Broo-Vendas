@@ -13,7 +13,7 @@ const productsData = [
     name: "Creme Oleoban (pequeno)",
     price: "7500",
     description: "Creme hidratante de tamanho pequeno, ideal para uso diário e fácil transporte.",
-    image: "fotos/Imagem WhatsApp 2025-04-03 às 16.19.26_59881041.jpg",
+    image: "/fotos/Imagem WhatsApp 2025-04-03 às 16.19.26_59881041.jpg",
     category: "Hidratantes"
   },
   {
@@ -21,7 +21,7 @@ const productsData = [
     name: "Creme Cerave",
     price: "23000",
     description: "Creme de tratamento intensivo que hidrata e restaura a barreira cutânea natural da pele.",
-    image: "fotos/Imagem WhatsApp 2025-04-03 às 18.45.20_9e7c5360.jpg",
+    image: "/fotos/Imagem WhatsApp 2025-04-03 às 18.45.20_9e7c5360.jpg",
     category: "Hidratantes"
   },  
   {
@@ -29,7 +29,7 @@ const productsData = [
     name: "Creme Estricure",
     price: "3000",
     description: "Creme específico para tratamento de estrias, ajudando a reduzir sua aparência.",
-    image: "fotos/ChatGPT Image 4_04_2025, 19_56_03.png",
+    image: "/fotos/ChatGPT Image 4_04_2025, 19_56_03.png",
     category: "Hidratantes"
   },
   {
@@ -45,7 +45,7 @@ const productsData = [
     name: "Creme Leoderme",
     price: "9500",
     description: "Kit completo com creme e sabonete para bebê, com fórmula suave e hipoalergênica.",
-    image: "fotos/Imagem WhatsApp 2025-04-04 às 19.58.06_00c80d16.jpg",
+    image: "/fotos/Imagem WhatsApp 2025-04-04 às 19.58.06_00c80d16.jpg",
     category: "Hidratantes"
   },
   {
@@ -53,7 +53,7 @@ const productsData = [
     name: "Creme ATL",
     price: "38000",
     description: "Creme premium com ativos avançados para tratamento intensivo e rejuvenescimento da pele.",
-    image: "fotos/Imagem WhatsApp 2025-04-03 às 19.03.04_9c772798.jpg",
+    image: "/fotos/Imagem WhatsApp 2025-04-03 às 19.03.04_9c772798.jpg",
     category: "Hidratantes"
   },
   {
@@ -61,7 +61,7 @@ const productsData = [
     name: "Sabonete Oleoban",
     price: "5000",
     description: "Sabonete suave e delicado formulado especialmente para a pele sensível dos bebês.",
-    image: "fotos/Imagem WhatsApp 2025-04-03 às 16.32.56_12d36084.jpg",
+    image: "/fotos/Imagem WhatsApp 2025-04-03 às 16.32.56_12d36084.jpg",
     category: "Limpeza"
   },
   {
@@ -69,7 +69,7 @@ const productsData = [
     name: "Kit Oleoban",
     price: "26000",
     description: "Kit completo com creme diário,gel de banho e sabonete para uma rotina de cuidados completa.",
-    image: "fotos/Imagem WhatsApp 2025-04-04 às 22.19.23_3f588831.jpg",
+    image: "/fotos/Imagem WhatsApp 2025-04-04 às 22.19.23_3f588831.jpg",
     category: "Kits"
   },
   {
@@ -77,7 +77,7 @@ const productsData = [
     name: "Creme Oleoban (grande)",
     price: "22000",
     description: "Versão maior do creme Oleoban, ideal para uso familiar ou para quem utiliza o produto diariamente.",
-    image: "fotos/Imagem WhatsApp 2025-04-03 às 16.20.53_49d06144.jpg",
+    image: "/fotos/Imagem WhatsApp 2025-04-03 às 16.20.53_49d06144.jpg",
     category: "Hidratantes"
   },
   {
@@ -85,7 +85,7 @@ const productsData = [
     name: "Creme Oleoban (medio)",
     price: "12000",
     description: "Ideal para uso familiar ou para quem utiliza o produto diariamente.",
-    image: "fotos/Imagem WhatsApp 2025-04-04 às 21.55.13_d40e77f2.jpg",
+    image: "/fotos/Imagem WhatsApp 2025-04-04 às 21.55.13_d40e77f2.jpg",
     category: "Hidratantes"
   },
   {
@@ -93,7 +93,7 @@ const productsData = [
     name: "Bum Blast (xarope)",
     price: "1500",
     description: "É vitamina especialmente formulada para ajudar no ganho de volume corporal",
-    image: "fotos/Imagem WhatsApp 2025-04-04 às 21.58.09_c2709a05.jpg",
+    image: "/fotos/Imagem WhatsApp 2025-04-04 às 21.58.09_c2709a05.jpg",
     category: "Hidratantes"
   }
 ];

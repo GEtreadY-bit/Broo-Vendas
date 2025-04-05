@@ -9,17 +9,17 @@ import { AspectRatio } from "@/components/ui/aspect-ratio";
 const produtos = [
   {
     nome: "Creme Oleoban",
-    imagem: "fotos/Imagem WhatsApp 2025-04-03 às 16.20.53_49d06144.jpg",
+    imagem: "/fotos/Imagem WhatsApp 2025-04-03 às 16.20.53_49d06144.jpg",
     descricao: "Versão maior do creme Oleoban, ideal para uso familiar ou para quem utiliza o produto diariamente.",
   },
   {
     nome: "Creme Cerave",
-    imagem: "fotos/Imagem WhatsApp 2025-04-03 às 18.45.20_9e7c5360.jpg",
+    imagem: "/fotos/Imagem WhatsApp 2025-04-03 às 18.45.20_9e7c5360.jpg",
     descricao: "Creme de tratamento intensivo que hidrata e restaura a barreira cutânea natural da pele.",
   },
   {
     nome: "Sabonete Oleoban",
-    imagem: "fotos/Imagem WhatsApp 2025-04-03 às 16.32.56_12d36084.jpg",
+    imagem: "/fotos/Imagem WhatsApp 2025-04-03 às 16.32.56_12d36084.jpg",
     descricao: "Sabonete suave e delicado formulado especialmente para a pele sensível dos bebês.",
   }
 ];
@@ -65,7 +65,7 @@ const Index = () => {
             <div className="md:w-1/2 mt-10 md:mt-0 animate-image-float">
               <AspectRatio ratio={16/9} className="rounded-lg overflow-hidden shadow-lg">
                 <img 
-                  src="fotos/ChatGPT Image 3_04_2025, 15_27_56.png" 
+                  src="/fotos/ChatGPT Image 3_04_2025, 15_27_56.png" 
                   alt="Produtos de skincare Cantina da Rosa" 
                   className="w-full h-full object-cover"
                 />
@@ -128,7 +128,7 @@ const Index = () => {
               <div className="bg-cantina-rose p-1 rounded-lg">
                 <AspectRatio ratio={4/3} className="rounded-lg overflow-hidden">
                   <img 
-                    src="fotos/Imagem WhatsApp 2025-04-03 às 17.25.44_bdb0a25d.jpg" 
+                    src="/fotos/Imagem WhatsApp 2025-04-03 às 17.25.44_bdb0a25d.jpg" 
                     alt="Sobre a Cantina da Rosa" 
                     className="w-full h-full object-cover"
                   />
