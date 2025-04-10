@@ -117,7 +117,7 @@ const productsData = [
     name: "Protetor Solar Avéne",
     price: "38000",
     description: "Ideal para todos os tipos de pele, oferecendo cuidado duradouro contra os danos solares e mantendo a pele hidratada e protegida o dia todo.",
-    image: "/fotos/Foto de Ângelo2.jpg",
+    image: "/fotos/IMG-20250410-WA0086.jpg",
     category: "Hidratantes"
   },
   {
@@ -125,7 +125,7 @@ const productsData = [
     name: "Espuma de barbear",
     price: "22000",
     description: "garante um barbear suave e confortável, protegendo a pele e reduzindo irritações",
-    image: "/fotos/Foto de Ângelo2.jpg",
+    image: "/fotos/IMG-20250410-WA0095.jpg",
     category: "Hidratantes"
   },
   {
@@ -133,7 +133,7 @@ const productsData = [
     name: "Gel de banho Avéne",
     price: "25000",
     description: "limpa delicadamente, respeitando a pele sensível, deixando-a suave e hidratada.",
-    image: "/fotos/Foto de Ângelo2.jpg",
+    image: "/fotos/IMG-20250410-WA0096.jpg",
     category: "Limpeza"
   }
 ];
