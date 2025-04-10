@@ -111,6 +111,30 @@ const productsData = [
     description: "cuidado intensivo e rejuvenescimento em um tamanho prático.",
     image: "/fotos/Foto de Ângelo2.jpg",
     category: "Hidratantes"
+  },
+  {
+    id: 14,
+    name: "Protetor Solar Avéne",
+    price: "38000",
+    description: "Ideal para todos os tipos de pele, oferecendo cuidado duradouro contra os danos solares e mantendo a pele hidratada e protegida o dia todo.",
+    image: "/fotos/Foto de Ângelo2.jpg",
+    category: "Hidratantes"
+  },
+  {
+    id: 15,
+    name: "Espuma de barbear",
+    price: "22000",
+    description: "garante um barbear suave e confortável, protegendo a pele e reduzindo irritações",
+    image: "/fotos/Foto de Ângelo2.jpg",
+    category: "Hidratantes"
+  },
+  {
+    id: 16,
+    name: "Gel de banho Avéne",
+    price: "25000",
+    description: "limpa delicadamente, respeitando a pele sensível, deixando-a suave e hidratada.",
+    image: "/fotos/Foto de Ângelo2.jpg",
+    category: "Limpeza"
   }
 ];
 
