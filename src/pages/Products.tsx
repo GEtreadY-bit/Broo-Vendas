@@ -103,6 +103,14 @@ const productsData = [
     description: "Fórmula de vitaminas criada para auxiliar no ganho de massa corporal.",
     image: "/fotos/Foto de Ângelo.jpg",
     category: "Vitaminas"
+  },
+  {
+    id: 13,
+    name: "Creme ATL(400g)",
+    price: "26000",
+    description: "cuidado intensivo e rejuvenescimento em um tamanho prático.",
+    image: "/fotos/Foto de Ângelo2.jpg",
+    category: "Hidratantes"
   }
 ];
 
