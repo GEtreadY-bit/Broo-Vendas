@@ -97,7 +97,7 @@ const productsData = [
     category: "Vitaminas"
   },
   {
-    id: 11,
+    id: 12,
     name: "PerfectVita",
     price: "2000",
     description: "É vitamina especialmente formulada para ajudar no ganho de volume corporal",
