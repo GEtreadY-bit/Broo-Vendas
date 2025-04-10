@@ -92,7 +92,7 @@ const productsData = [
     id: 11,
     name: "Bum Blast (xarope)",
     price: "2000",
-    description: "É vitamina especialmente formulada para ajudar no ganho de volume corporal",
+    description: "É vitamina especialmente formulada para ajudar no ganho de volume corporal.",
     image: "/fotos/Imagem WhatsApp 2025-04-04 às 21.58.09_c2709a05.jpg",
     category: "Vitaminas"
   },
@@ -100,7 +100,7 @@ const productsData = [
     id: 12,
     name: "PerfectVita",
     price: "2000",
-    description: "É vitamina especialmente formulada para ajudar no ganho de volume corporal",
+    description: "Fórmula de vitaminas criada para auxiliar no ganho de massa corporal.",
     image: "/fotos/Foto de Ângelo.jpg",
     category: "Vitaminas"
   }
