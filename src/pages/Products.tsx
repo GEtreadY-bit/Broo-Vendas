@@ -4,7 +4,7 @@ import Layout from "../components/Layout";
 import ProductCard from "../components/ProductCard";
 import gsap from "gsap";
 
-const categories = ["Todos", "Hidratantes", "Séruns", "Máscaras", "Limpeza", "Kits"];
+const categories = ["Todos", "Hidratantes", "Séruns", "Vitaminas", "Limpeza", "Kits"];
 
 // Products data with updated product list
 const productsData = [
